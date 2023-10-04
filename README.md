@@ -41,7 +41,7 @@ O @property é o get e o setter precisa que passemos qual atributo será modific
 
 Dentro do **BankAccount** também adicionamos mais algumas funções e utilizamos mais dois atributos, o **withdrawal** que é o saque e o **deposit** que é o depósito, ambos utilizam o **amount** que é a quantia que será ou retirada ou colocada e por fim o **statement** que é o nosso extrato.
 
-É um projeto simples, mas muito útil para o treino de Python Orientado a Objetos, já que vemos as classes, os métodos, o método construtor, proteção de atributos e etc. . . Espero que tenham gostado ! <img width="3%" src="https://i.pinimg.com/originals/c9/b2/ed/c9b2edcb9a4d3ca9f0fc01c52f567795.gif">
+É um projeto simples, mas muito útil para o treino de Python Orientado a Objetos, já que vemos as classes, os métodos, o método construtor, proteção de atributos e etc. . . Espero que tenham gostado ! <img width="25px" src="https://i.pinimg.com/originals/c9/b2/ed/c9b2edcb9a4d3ca9f0fc01c52f567795.gif">
 
 # Bank System - EN 🔴🔵⚪
 ### Made with Object Oriented Python
@@ -82,4 +82,4 @@ The @property is the get and the .setter needs us to pass which attribute will b
 
 Inside **BankAccount** we also added some more functions and used two more attributes, **withdrawal** which is the withdrawal and **deposit** which is the deposit, both use the **amount** which is the amount that will be either withdrawn or placed and finally the **statement** which is our statement.
 
-It's a simple project, but very useful for training Object Oriented Python, as we see classes, methods, the constructor method, attribute protection, etc. . . I hope you guys enjoyed ! <img width="3%" src="https://i.pinimg.com/originals/c9/b2/ed/c9b2edcb9a4d3ca9f0fc01c52f567795.gif">
+It's a simple project, but very useful for training Object Oriented Python, as we see classes, methods, the constructor method, attribute protection, etc. . . I hope you guys enjoyed ! <img width="25px" src="https://i.pinimg.com/originals/c9/b2/ed/c9b2edcb9a4d3ca9f0fc01c52f567795.gif">
